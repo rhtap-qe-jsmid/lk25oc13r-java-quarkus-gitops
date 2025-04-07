@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lk25oc13r-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/lk25oc13r-java-quarkus-gitops
